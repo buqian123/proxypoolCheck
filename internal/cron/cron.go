@@ -1,8 +1,8 @@
 package cron
 
 import (
-	"github.com/Sansui233/proxypoolCheck/config"
-	"github.com/Sansui233/proxypoolCheck/internal/app"
+	"github.com/buqian123/proxypoolCheck/config"
+	"github.com/buqian123/proxypoolCheck/internal/app"
 	"github.com/jasonlvhit/gocron"
 	"log"
 	"runtime"

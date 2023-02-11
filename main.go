@@ -2,10 +2,10 @@ package main
 
 import (
 	"flag"
-	"github.com/Sansui233/proxypoolCheck/api"
-	"github.com/Sansui233/proxypoolCheck/config"
-	"github.com/Sansui233/proxypoolCheck/internal/app"
-	"github.com/Sansui233/proxypoolCheck/internal/cron"
+	"github.com/buqian123/proxypoolCheck/api"
+	"github.com/buqian123/proxypoolCheck/config"
+	"github.com/buqian123/proxypoolCheck/internal/app"
+	"github.com/buqian123/proxypoolCheck/internal/cron"
 	"log"
 	"net/http"
 )
